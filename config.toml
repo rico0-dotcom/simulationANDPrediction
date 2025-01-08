@@ -1,3 +1,7 @@
+[server]
+headless = true
+port = $PORT
+enableCORS = false
 [theme]
 primaryColor = "#6C63FF"          # Vibrant primary color (e.g., purple)
 backgroundColor = "#FFFFFF"       # Clean white background
