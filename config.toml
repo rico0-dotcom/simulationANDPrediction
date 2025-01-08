@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#6C63FF"          # Vibrant primary color (e.g., purple)
+backgroundColor = "#FFFFFF"       # Clean white background
+secondaryBackgroundColor = "#F0F2F6"  # Light gray for cards and sections
+textColor = "#31333F"             # Dark text for readability
+font = "sans-serif" 
